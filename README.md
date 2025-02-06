@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # tact
+=======
+# tactproject
+>>>>>>> 3de576cbae9248c4f2f184b74ad6d2086884beb5
 
 ## Project structure
 
